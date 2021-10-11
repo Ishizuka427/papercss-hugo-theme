@@ -57,21 +57,21 @@ blockquote {
 
 /* font */
 tr {
-  font-family: Yomogi,sans-serif
+    font-family: Yomogi,sans-serif;
 }
 p {
-  font-family: Yomogi,sans-serif
+    font-family: Yomogi,sans-serif;
 }
 a {
-  font-family: Life Savers,Kiwi-maru,sans-serif
+    font-family: Life Savers,Kiwi-maru,sans-serif;
 }
 h1 {
-  font-family: Life Savers
+    font-family: Life Savers;
 }
 h2, h3, h4, h5, h6 {
-  font-family: Yomogi,sans-serif
+    font-family: Yomogi,sans-serif;
 }
 
 th,td {
-  font-family: Yomogi,sans-serif
+    font-family: Yomogi,sans-serif;
 }
