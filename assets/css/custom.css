@@ -1,6 +1,16 @@
 /* base */
+@import url(https://fonts.googleapis.com/css?family=Life+Savers);
+@import url(https://fonts.googleapis.com/css2?family=Yomogi);
+@import url(https://fonts.googleapis.com/css2?family=Patrick+Hand+SC);
+
+https://fonts.googleapis.com/css2?family=Patrick+Hand+SC
 body {
   background-image: url('{{ "img/geometry2.png" | relURL }}');
+  font-family: Yomogi,sans-serif;
+
+}
+main {
+  font-family: Yomogi,sans-serif;
 }
 
 /* anchors */
@@ -43,4 +53,25 @@ blockquote {
 }
 .toc h2 {
   font-size: 1.3em;
+}
+
+/* font */
+tr {
+  font-family: Yomogi,sans-serif
+}
+p {
+  font-family: Yomogi,sans-serif
+}
+a {
+  font-family: Life Savers,Kiwi-maru,sans-serif
+}
+h1 {
+  font-family: Life Savers
+}
+h2,h3,h4,h5,h6 {
+  font-family: Yomogi,sans-serif
+}
+
+th,td {
+  font-family: Yomogi,sans-serif
 }
