@@ -63,7 +63,7 @@ p {
     font-family: Yomogi,sans-serif;
 }
 a {
-    font-family: Life Savers,Kiwi-maru,sans-serif;
+    font-family: Life Savers,Yomogi,sans-serif;
 }
 h1 {
     font-family: Life Savers;
@@ -76,3 +76,6 @@ th,td {
     font-family: Yomogi,sans-serif;
 }
 
+pre code {
+    font-family: -apple-system,Segoe UI,sans-serif;
+}
