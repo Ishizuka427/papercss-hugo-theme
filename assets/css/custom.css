@@ -1,16 +1,18 @@
 /* base */
 @import url(https://fonts.googleapis.com/css?family=Life+Savers);
 @import url(https://fonts.googleapis.com/css2?family=Yomogi);
+@import url(https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Patrick+Hand+SC);
+@import url(https://fonts.googleapis.com/css2?family=Hina+Mincho&family=Zen+Kurenaido&display=swap);
 
 https://fonts.googleapis.com/css2?family=Patrick+Hand+SC
 body {
   background-image: url('{{ "img/geometry2.png" | relURL }}');
-  font-family: Yomogi,sans-serif;
+  font-family: Hina Mincho,sans-serif;
 
 }
 main {
-  font-family: Yomogi,sans-serif;
+  font-family: Hina Mincho,sans-serif;
 }
 
 /* anchors */
@@ -57,23 +59,23 @@ blockquote {
 
 /* font */
 tr {
-    font-family: Yomogi,sans-serif;
+    font-family: Hina Mincho,sans-serif;
 }
 p {
-    font-family: Yomogi,sans-serif;
+    font-family: Hina Mincho,sans-serif;
 }
 a {
-    font-family: Life Savers,Yomogi,sans-serif;
+    font-family: Hina Mincho,sans-serif;
 }
 h1 {
-    font-family: Life Savers;
+    font-family: Hina Mincho;
 }
 h2, h3, h4, h5, h6 {
-    font-family: Yomogi,sans-serif;
+    font-family: Hina Mincho,sans-serif;
 }
 
 th,td {
-    font-family: Yomogi,sans-serif;
+    font-family: Hina Mincho,sans-serif;
 }
 
 pre code {
