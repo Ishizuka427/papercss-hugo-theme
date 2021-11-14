@@ -81,3 +81,7 @@ th,td {
 pre code {
     font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
 }
+
+ul li input {
+    display: inline;
+}
