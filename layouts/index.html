@@ -1,8 +1,12 @@
 {{ define "main" }}
 
+<!--
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+-->
+
+<img src="/images/bear.png" style="border: none" width="100" align="right" >
 
 {{ range $paginator.Pages.ByPublishDate.Reverse }}
   <h2 class="post-list {{ if ne .Params.show_summary false }}summary{{ end }}">
